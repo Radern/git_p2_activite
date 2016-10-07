@@ -2,6 +2,6 @@ Ceci
 est
 ma
 petite
-phrase.
+phrase
 après
 modification.
